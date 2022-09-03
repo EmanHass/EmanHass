@@ -27,8 +27,9 @@
 - ✨ 'CSS, CSS3'                                   
 - ✨ 'Bootstrap 4'                                  
 - ✨ 'JavaScript'                                   
-- ✨ 'Git & GitHub'
+- ✨ 'Angualr'                                   
 - ✨ 'JSON'
+- ✨ 'Git & GitHub'
 - ✨ 'Web API'
 - ✨ 'UX/UI'                                        
 ```
