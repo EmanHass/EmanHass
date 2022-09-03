@@ -42,6 +42,7 @@
 <img src="./images/html.svg" height="35px" />
 <img src="./images/css.svg" height="35px" />
 <img src="./images/javascript.svg" height="35px" />
+<img src="./images/angular.svg" height="35px" />
 <img src="./images/git.svg" height="35px" />
 <img src="./images/figma.svg" height="35px" />
 <img src="./images/postman.svg" height="35px" />
