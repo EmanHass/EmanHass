@@ -13,7 +13,7 @@
     <h2 style="font-weight: 500; margin-top: 2rem">About Me:</h2>
     <p>✔ Eman from Palestine, intersted in programming field.</p>
     <p>✔ Student in <strong>Al-Azhar university</strong> of Software Engineering.</p>
-    <p>✔ Student in <a href="https://gazaskygeeks.com/" target="_blank">GSG</a> of Technical Training Program | AngularJs.</p>
+    <p>✔ Student in <a href="https://gazaskygeeks.com/" target="_blank">GSG</a> of Technical Training Program | Angular.</p>
     <p>✔ Graduated from <strong>Coding Foundations Course</strong> in <strong>GSG</strong>.</p>
     
 </div>
