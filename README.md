@@ -29,6 +29,7 @@
 - ✨ 'JavaScript'                                   
 - ✨ 'Angualr'                                   
 - ✨ 'JSON'
+- ✨ 'ReactJs'
 - ✨ 'Git & GitHub'
 - ✨ 'Web API'
 - ✨ 'UX/UI'                                        
